@@ -39,10 +39,11 @@ $ type anyenv
 ```bash
 # rbenvのインストール
 $ anyenv install rbenv
+$ rbenv init -
 
 # 研修で利用するRubyのセットアップ
 $ cd ~/rails-lesson
-$ rbenv init -
+$ rbenv install `less ./.ruby-version`
 ## 成果確認
 $ ruby --version
 ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-darwin15]
