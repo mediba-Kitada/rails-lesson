@@ -1,0 +1,416 @@
+: 1458207437:0;fonts
+: 1458207440:0;./install.sh
+: 1458207479:0;df
+: 1458207734:0;git pom
+: 1458207744:0;git pom
+: 1458207753:0;../
+: 1458207754:0;git pom
+: 1458207767:0;source .zshrc
+: 1458207789:0;type python
+: 1458207816:0;anyenv install pyenv
+: 1458207847:0;type python
+: 1458207850:0;vi install.sh
+: 1458207885:0;source .zshrc
+: 1458207892:0;type python
+: 1458207908:0;pip install --user powerline-status
+: 1458207922:0;pip install --upgrade pip
+: 1458207928:0;source .zshrc
+: 1458207938:0;vi .zshrc
+: 1458207954:0;vi install.sh
+: 1458207996:0;pip install --user powerline-status
+: 1458208008:0;./install.sh
+: 1458208064:0;vi install.sh
+: 1458208093:0;[ ! -d ~/.vim/bundle ] || mkdir -p ~/.vim/bundle
+: 1458208110:0;ll ../.vim/
+: 1458208141:0;[ ! -d ~/.vim/bundle ] && mkdir -p ~/.vim/bundle
+: 1458208144:0;ll ../.vim/
+: 1458208167:0;[ ! -d ~/.vim/dict/ ] && mkdir -p ~/.vim/dict/
+: 1458208172:0;[ ! -d ~/.vim/tags/ ] && mkdir -p ~/.vim/tags/
+: 1458208177:0;[ ! -d ~/.vim/vim-ref/cache ] && mkdir -p ~/.vim/vim-ref/cache
+: 1458208182:0;[ ! -d ~/.vim/bundle/neobundle.vim ] && git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+: 1458208384:0;vi .vimrc
+: 1458208764:0;vi .vimrc
+: 1458208858:0;type rbenv
+: 1458208874:0;ruby --version
+: 1458208907:0;vi .zshrc
+: 1458209035:0;q
+: 1458209046:0;q
+: 1458209056:0;df
+: 1458275868:0;df
+: 1458278852:0;brew cask install google-chrome
+: 1458278881:0;type rbenv
+: 1458278902:0;anyenv install rbenv
+: 1458278927:0;vi install.sh
+: 1458279018:0;vi .zshrc
+: 1458279041:0;anyenv install rbenv
+: 1458279064:0;vi formula.yaml
+: 1458279099:0;vi formula.yaml
+: 1458279142:0;brionac attack
+: 1458279321:0;git pom
+: 1458279343:0;vi .vimrc
+: 1458279454:0;source .zshrc
+: 1458279476:0;vi .zshrc
+: 1458279513:0;vi .zshrc
+: 1458279527:0;powerline-daemon -q
+: 1458279790:0;source .zshrc
+: 1458279806:0;source .zshrc
+: 1458279838:0;vi README.md
+: 1458279852:0;vi README.md
+: 1458279867:0;vi README.md
+: 1458279892:0;vi README.md
+: 1458279951:0;brew uninstall vim
+: 1458279963:0;vi README.md
+: 1458279972:0;brew reinstall vim --with-lua
+: 1458280035:0;source .zshrc
+: 1458280048:0;vi README.md
+: 1458280052:0;vi README.md
+: 1458280099:0;vi ~/.bash_history
+: 1458281416:0;../
+: 1458281430:0;git clone git@github.com:mediba-Kitada/rails-lesson.git
+: 1458281467:0;rails-lesson
+: 1458281485:0;~/rails-lesson
+: 1458281492:0;vi README.md
+: 1458281979:0;git submodule add git@github.com:riywo/anyenv.git
+: 1458282130:0;vi anyenv/bin/anyenv
+: 1458282416:0;source .zshrc
+: 1458282543:0;ll ../
+: 1458282554:0;la ../
+: 1458282561:0;ls -al 
+: 1458282563:0;ls -al ../
+: 1458282749:0;type anyenv
+: 1458282922:0;rbenv local 2.3.0
+: 1458282933:0;rbenv install 2.3.0
+: 1458283274:0;rbenv local 2.3.0
+: 1458283277:0;git s ./
+: 1458283283:0;vi .ruby-version
+: 1458283292:0;rbenv init
+: 1458283306:0;rbenv init ./
+: 1458283309:0;rbenv init -
+: 1458283333:0;ruby --version
+: 1458283342:0;rbenv rehash
+: 1458283344:0;ruby --version
+: 1458283553:0;ruby --version
+: 1458283558:0;ruby v
+: 1458283561:0;ruby -v
+: 1458283622:0;rbenv exec gem install bundler
+: 1458283838:0;rbenv exec bundle init
+: 1458283844:0;vi Gemfile
+: 1458283918:0;rbenv exec bundle install --path ./vendor
+: 1458284186:0;vi Gemfile
+: 1458284201:0;vi Gemfile.lock
+: 1458284215:0;vi Gemfile
+: 1458284256:0;rm Gemfile.lock
+: 1458284294:0;vi Gemfile
+: 1458284307:0;rbenv exec bundle install --path ./vendor
+: 1458284344:0;git s ./
+: 1458284356:0;vi .gitignore
+: 1458284378:0;rm -rf vendor
+: 1458284389:0;vi .gitignore
+: 1458284406:0;rbenv exec bundle install --path ./vendor/bundle
+: 1458284575:0;rbenv init
+: 1458284578:0;rbenv init -
+: 1458284636:0;vi README.md
+: 1458284759:0;mkdir -p ./tmp && cd ./tmp
+: 1458284764:0;rbenv exec bundle exec rails new dummy
+: 1458284793:0;git s ./
+: 1458284831:0;vi .gitignore
+: 1458284860:0;git s ./
+: 1458284876:0;git add ./
+: 1458284888:0;git c -m 'ÂÉ®ÉΩÊÉºÉøÊßÉ´ÁØÉ©'
+: 1458284898:0;tig
+: 1458284923:0;git config --global user.name "Your Name"
+: 1458284984:0;git config --local user.email "kitada@mediba.jp"
+: 1458285011:0;git config --local user.name "[mediba] Kitada Tsubasa"
+: 1458285027:0;tig
+: 1458285041:0;git push origin master
+: 1458285210:0;../
+: 1458285211:0;git s ./
+: 1458285223:0;vi .gitignore
+: 1458285238:0;git s ./
+: 1458285239:0;ll
+: 1458285540:0;rbenv install `less ./.ruby-version`
+: 1458285552:0;vi README.md
+: 1458285623:0;anyenv rehash
+: 1458285732:0;type rbenv
+: 1458285762:0;git s ./
+: 1458285767:0;git add ./
+: 1458285774:0;git c -m 'ÂÉ®ÉΩÊÉºÉøÊßÉ´ÁØÉ© / typo'
+: 1458285776:0;git push origin master
+: 1458285911:0;git s ./
+: 1458286620:0;vi ./tmp/dummy/app/controllers/application_controller.rb
+: 1458286666:0;vi ./tmp/dummy/app/controllers/application_controller.rb
+: 1458286696:0;vi ../dotfiles/.vimrc
+: 1458286856:0;java --version
+: 1458286865:0;java -version
+: 1458287055:0;brionac attack
+: 1458287128:0;source .zshrc
+: 1458287204:0;type rsense
+: 1458287246:0;ll /usr/local/Cellar/rsense
+: 1458287249:0;ll /usr/local/Cellar/rsense/0.3
+: 1458287297:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458287395:0;[ -f /users/local/Cellar/rsense/0.3/libexec/etc/config.rb ] && ruby /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb > ~/.rsense
+: 1458287424:0;[ -f /users/local/Cellar/rsense/0.3/libexec/etc/config.rb ]
+: 1458287430:0;echo $?
+: 1458287445:0;ls -al /users/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458287501:0;[ -f /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb ] && ruby /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb > ~/.rsense
+: 1458287506:0;vi ~/.rsense
+: 1458287695:0;[ -f /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb ] && ruby /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb > ~/.rsense
+: 1458287702:0;vi ~/.rsense
+: 1458288009:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458288038:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458289563:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458289657:0;git diff .vimrc
+: 1458289673:0;vi .vimrc
+: 1458289941:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458289966:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458289976:0;vi ../dotfiles/.vimrc
+: 1458289997:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458290015:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458290225:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458290653:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458290681:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458290998:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458291143:0;vi Gemfile
+: 1458291177:0;ruby --version
+: 1458291189:0;type ruby
+: 1458291334:0;rbenv exec gem list
+: 1458291343:0;rbenv exec gem install bundler
+: 1458291366:0;rbenv exec gem install bundle
+: 1458291381:0;ls -al /Library/Ruby/Gems
+: 1458291447:0;rbenv exec bundle install --path ./vendor/bundle
+: 1458291508:0;rbenv exec bundle exec bitclust setup
+: 1458291619:0;vi README.md
+: 1458291788:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458291816:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458291925:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458293144:0;git s ./
+: 1458293206:0;vi .vimrc.local
+: 1458293228:0;vi /usr/local/Cellar/rsense/0.3/libexec/etc/config.rb
+: 1458293259:0;git s ./
+: 1458293274:0;git add ./
+: 1458293307:0;git c -m 'vimÂÉ∞É±„ÅÉ±„Å´„ÅÉ§„ÇÉ≠„ÅÉ§„ÇÉ≠ËøΩÂÉ™ÉÄ / rubocom„Å®„ÅÉ´indent„Å®„ÅÉ´'
+: 1458293311:0;git push origin master
+: 1458293321:0;git s ./
+: 1458293332:0;git diff .gitconfig
+: 1458293345:0;git co .gitconfig
+: 1458293346:0;git s ./
+: 1458293351:0;git add ./
+: 1458293360:0;git c -m 'RubyÈÉ∂¢ÈÄ£„ÅÆË®≠ÂÆÉ∫„ÇÉ≤ËøΩÂÉ™ÉÄ'
+: 1458293367:0;git push origin master
+: 1458293434:0;vi Gemfile
+: 1458293906:0;git s ./
+: 1458605098:0;git pom
+: 1458605633:0;vi memo.md
+: 1458606043:0;rbenv exec rails --version
+: 1458606150:0;cd tmp
+: 1458606305:0;rbenv exec irb
+: 1458609629:0;../
+: 1458609640:0;rbenv exec ruby ./lesson_01.rb
+: 1458609642:0;ll
+: 1458609654:0;chmod +x ./lessn_01.rb
+: 1458609656:0;rbenv exec ruby ./lesson_01.rb
+: 1458609673:0;ruby ./lessn_01.rb
+: 1458609676:0;ruby ./lessn_01.rb
+: 1458609677:0;ruby ./lessn_01.rb
+: 1458609749:0;ruby ./lessn_01.rb
+: 1458609771:0;ruby ./lessn_01.rb
+: 1458609782:0;ruby ./lessn_01.rb
+: 1458609902:0;ruby ./lessn_01.rb
+: 1458610471:0;less .ruby-version
+: 1458610775:0;irb
+: 1458611092:0;chmod +x ./lessn_02.rb
+: 1458611101:0;ruby ./lessn_02.rb
+: 1458611102:0;ruby ./lessn_02.rb
+: 1458611103:0;ruby ./lessn_02.rb
+: 1458611104:0;ruby ./lessn_02.rb
+: 1458611104:0;ruby ./lessn_02.rb
+: 1458611105:0;ruby ./lessn_02.rb
+: 1458611106:0;ruby ./lessn_02.rb
+: 1458611107:0;ruby ./lessn_02.rb
+: 1458611131:0;ruby ./lessn_02.rb
+: 1458611144:0;ruby ./lessn_02.rb
+: 1458611351:0;ruby ./lessn_02.rb
+: 1458611353:0;ruby ./lessn_02.rb
+: 1458611354:0;ruby ./lessn_02.rb
+: 1458611431:0;ruby ./lessn_02.rb
+: 1458611498:0;irb
+: 1458611612:0;ruby ./lessn_02.rb
+: 1458611614:0;ruby ./lessn_02.rb
+: 1458611763:0;ruby ./lessn_02.rb
+: 1458611764:0;ruby ./lessn_02.rb
+: 1458611765:0;ruby ./lessn_02.rb
+: 1458611765:0;ruby ./lessn_02.rb
+: 1458611766:0;ruby ./lessn_02.rb
+: 1458611938:0;ruby ./lessn_02.rb
+: 1458611939:0;ruby ./lessn_02.rb
+: 1458611940:0;ruby ./lessn_02.rb
+: 1458611941:0;ruby ./lessn_02.rb
+: 1458612044:0;ruby ./lessn_02.rb
+: 1458612044:0;ruby ./lessn_02.rb
+: 1458612045:0;ruby ./lessn_02.rb
+: 1458612046:0;ruby ./lessn_02.rb
+: 1458612047:0;ruby ./lessn_02.rb
+: 1458612047:0;ruby ./lessn_02.rb
+: 1458612048:0;ruby ./lessn_02.rb
+: 1458612049:0;ruby ./lessn_02.rb
+: 1458612050:0;ruby ./lessn_02.rb
+: 1458612050:0;ruby ./lessn_02.rb
+: 1458612051:0;ruby ./lessn_02.rb
+: 1458612051:0;ruby ./lessn_02.rb
+: 1458612052:0;ruby ./lessn_02.rb
+: 1458612103:0;ruby ./lessn_02.rb
+: 1458612103:0;ruby ./lessn_02.rb
+: 1458612104:0;ruby ./lessn_02.rb
+: 1458612104:0;ruby ./lessn_02.rb
+: 1458612105:0;ruby ./lessn_02.rb
+: 1458612106:0;ruby ./lessn_02.rb
+: 1458612106:0;ruby ./lessn_02.rb
+: 1458612120:0;ruby ./lessn_02.rb
+: 1458612121:0;ruby ./lessn_02.rb
+: 1458612300:0;chmod +x ./lessn_03.rb
+: 1458612304:0;ruby ./lessn_03.rb
+: 1458612420:0;ruby ./lessn_03.rb
+: 1458612600:0;ruby ./lessn_03.rb
+: 1458612642:0;ruby ./lessn_03.rb
+: 1458612680:0;ruby ./lessn_03.rb
+: 1458612708:0;ruby ./lessn_03.rb
+: 1458612886:0;rbenv exec irb
+: 1458619802:0;./oop
+: 1458619834:0;rbenv exec rspec -fd -c -I. persion_spec.rb
+: 1458619844:0;rbenv exec gem list rspec
+: 1458619851:0;../
+: 1458619853:0;vi Gemfile
+: 1458619864:0;rbenv exec gem list 
+: 1458619874:0;../
+: 1458619889:0;rbenv exec bundle install --path ./vendor/bundle
+: 1458619928:0;git s ./
+: 1458619940:0;~/rails-lesson
+: 1458619944:0;rbenv exec bundle install --path ./vendor/bundle
+: 1458619949:0;oop
+: 1458619954:0;rbenv exec gem list rspec
+: 1458619961:0;rbenv exec gem list  |grep rspec
+: 1458619975:0;anyenv rbenv exec gem 
+: 1458619978:0;rbenv exec gem 
+: 1458619981:0;rbenv exec gem list
+: 1458619992:0;rbenv exec gem list
+: 1458619997:0;../
+: 1458619999:0;vi Gemfile
+: 1458620008:0;rbenv exec bundle install --path ./vendor/bundle
+: 1458620018:0;rbenv rehash
+: 1458620028:0;ruby --version
+: 1458620033:0;type ruby
+: 1458620070:0;rbenv exec gem install rspec
+: 1458620092:0;rbenv rehash
+: 1458620099:0;rbenv exec rspec -fd -c -I. persion_spec.rb
+: 1458620109:0;./oop
+: 1458620112:0;rbenv exec rspec -fd -c -I. persion_spec.rb
+: 1458620115:0;ll
+: 1458620155:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458620324:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458620344:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458620515:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458620641:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458620699:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621065:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621096:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621117:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621208:0;irb 
+: 1458621440:0;irb
+: 1458621483:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621549:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621567:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621626:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621695:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621765:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458621944:0;rbenv exec rspec -fd -c -I. 
+: 1458621948:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622401:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622445:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622461:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622489:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622524:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622540:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622710:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622811:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622833:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458622851:0;../
+: 1458622872:0;rbenv exec rails create todo_app
+: 1458622879:0;rbenv exec rails --create todo_app
+: 1458622888:0;rbenv exec rails new todo_app
+: 1458622933:0;cd todo_app
+: 1458623017:0;rbenv exec rails g scaffold todo due:date task:string
+: 1458623131:0;vi Gemfile
+: 1458623198:0;rbenv exec rails g scaffold todo due:date task:string
+: 1458623232:0;../
+: 1458623238:0;rm -rf todo_app
+: 1458623243:0;rbenv exec rails new todo_app
+: 1458623262:0;cd todo_app
+: 1458623264:0;vi Gemfile
+: 1458623276:0;rbenv exec rails g scaffold todo due:date task:string
+: 1458623408:0;~/rails-lesson/todo_app
+: 1458623411:0;rbenv exec rails g scaffold todo due:date task:string
+: 1458623443:0;ps aux |grep spring
+: 1458623449:0;kill 84406
+: 1458623451:0;ps aux |grep spring
+: 1458623455:0;rbenv exec rails g scaffold todo due:date task:string
+: 1458623520:0;vi db/migrate/20160322051059_create_todos.rb
+: 1458623571:0;todo_app
+: 1458623574:0;vi
+: 1458623587:0;rbenv exec rake -h
+: 1458623604:0;rbenv exec rake -T
+: 1458623633:0;rbenv exec rake db:migrate
+: 1458623670:0;sqlite3 db/development.sqlite3
+: 1458623722:0;rbenv exec rails s
+: 1458624272:0;~/rails-lesson/oop
+: 1458624278:0;vi person_spec.rb
+: 1458624765:0;~/rails-lesson/oop
+: 1458624770:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458624801:0;ruby ./person.rb
+: 1458624836:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458625075:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458625105:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458625166:0;rails c
+: 1458625445:0;rbenv exec rails s
+: 1458625618:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458625636:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458625734:0;rbenv exec rails s
+: 1458626060:0;rbenv exec rake routes
+: 1458626212:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458626254:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458626270:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458626381:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458626441:0;rbenv exec rails -s p 3001
+: 1458626448:0;rbenv exec rails s -p 3001
+: 1458627279:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627388:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627444:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627483:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627529:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627533:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458627689:0;rbenv exec rails s
+: 1458628095:0;rbenv exec rails g migration AddMemoToTodo memo:text
+: 1458628151:0;rbenv exec rake db:migrate
+: 1458628344:0;rbenv exec rails s
+: 1458628550:0;rbenv exec rails s
+: 1458629101:0;rbenv exec rails s
+: 1458629110:0;rbenv exec rails s
+: 1458629129:0;rbenv exec rspec -fd -c -I. person_spec.rb
+: 1458629168:0;rbenv exec rails g model user name:string
+: 1458629190:0;rbenv exec rake db:migrate
+: 1458629257:0;rbenv exec rails g migration AddUserIDToTodo user_id:string
+: 1458629373:0;rbenv exec rails g migration AddUserToTodo user:references
+: 1458629391:0;rm db/migrate/20160322064738_add_user_id_to_todo.rb
+: 1458629399:0;rbenv exec rake db:migrate
+: 1458629597:0;rbenv exec rails c
+: 1458630096:0;rbenv exec rails s
+: 1458635092:0;../
+: 1458635094:0;git s ./
+: 1458635103:0;rm ;
+: 1458635113:0;ll ;
+: 1458635115:0;ll \;
+: 1458635118:0;rm \;
+: 1458635123:0;ll
+: 1458635124:0;git s ./
+: 1458635136:0;less ~/.zsh_history
+: 1458635142:0;less ~/.zsh_history |wc -l
+: 1458635160:0;cp ~/.zsh_history zsh_history
